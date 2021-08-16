@@ -29,6 +29,7 @@
     ?>
 
     <button type="button" class="btn btn-dark">CLICK ME!</button>
+    <a href="https://dashboard.heroku.com/apps" target="_blank" class="btn btn-primary">Heroku.com</a>
 
 <?php
     require 'includes/footer.php';
